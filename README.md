@@ -296,7 +296,7 @@ Si réduction de 10% du taux de retard :
 🎓 Master Data Marketing - INSEEC Paris  
 🔗 LinkedIn : [Laetitia NGONO](https://www.linkedin.com/in/laetitia-n)  
 📧 Email : ngonolaetitia2811@gmail.com  
-💼 Portfolio : [GitHub](https://github.com/Laetitia-Ngono)
+💼 Portfolio : [Laetitia-Ngono](https://github.com/Laetitia-Ngono)
 
 ---
 
